@@ -10,12 +10,12 @@ This code is for creating standardized, along-fjord gridded fields of temperatur
 
 
 ## Table of Contents
-- [Input Data Description](#Input Data Description)
-- [Background Grids](#Background Grids)
+- [Input Data Description](#InputDataDescription)
+- [Background Grids](#BackgroundGrids)
 - [Workflow](#Workflow)
 - [Dependencies](#Dependencies)
-- [Output Data](#Output Data)
-- [Calculating a Climatology](#Calculating a Climatology)
+- [Output Data](#OutputData)
+- [Calculating a Climatology](#CalculatingaClimatology)
 
 ## Input Data Description
 
