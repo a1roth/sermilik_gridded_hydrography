@@ -11,7 +11,6 @@ This code is for creating standardized, along-fjord gridded fields of temperatur
 
 ## Table of Contents
 - [Input Data Description](#InputDataDescription)
-- [Background Grids](#BackgroundGrids)
 - [Workflow](#Workflow)
 - [Dependencies](#Dependencies)
 - [Output Data](#OutputData)
