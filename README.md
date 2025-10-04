@@ -1,5 +1,6 @@
 # sermilik_gridded_hydrography
 Code and data for Sermilik Fjord gridded hydrography using objective mapping method (version 1: June 2025)
+October 2025 updates: Depth units have been changed to meters for all gridded data and the climatology (Units previously km, but described as m). Now description and values match. 
 
 ## Project Description
 Full description in Roth, A. et al., (in review), A fjord dataset for multi-disciplinary applications: Thirteen years of ocean observations in Sermilik Fjord, Southeast Greenland, Earth Systems Science Data (DOI coming soon).
