@@ -4,7 +4,7 @@ Code and data for Sermilik Fjord gridded hydrography using objective mapping met
 October 2025 updates: Depth units have been changed to meters for all gridded data and the climatology (Units previously km, but described as m). Now description and values match. 
 
 ## Project Description
-Full description in Roth, A. et al., (in review), A fjord dataset for multi-disciplinary applications: Thirteen years of ocean observations in Sermilik Fjord, Southeast Greenland, Earth Systems Science Data (DOI coming soon).
+Full description in Roth, A. et al., (in review), A dataset for multi-disciplinary applications: Thirteen years of ocean observations in Sermilik Fjord, Southeast Greenland, Earth Systems Science Data (DOI coming soon).
 
 This code is for creating standardized, along-fjord gridded fields of temperature and salinity from discrete CTD and XCTD profiles in Sermilik Fjord. An objective mapping method (also known as optimum or optimal interpolation) is used. Gridded fields are useful for calculating fjord-wide averages (eg. climatologies), forcings or validation for modeling studies, and environmental context for other discrete measurements in the fjord (biogeochemical bottle samples).   
 
